@@ -1,4 +1,4 @@
-public class PostMethodTest extends AnstractMethodTest {
+public class PostMethodTest extends AbstractMethodTest {
 /**
  * 前端使用POST方式调用后端的methodB方法
  */
