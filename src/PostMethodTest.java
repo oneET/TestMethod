@@ -1,5 +1,9 @@
 import java.net.URI;
 
+import java.net.URI;
+import java.util.ArrayList;
+import java.util.List;
+
 import org.apache.http.Consts;
 import org.apache.http.HttpEntity;
 import org.apache.http.NameValuePair;
